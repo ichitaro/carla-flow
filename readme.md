@@ -1,10 +1,10 @@
-# Three.js - Template - Simple
+# Carla Flow
+
+[Demo](https://carla-flow.vercel.app/)
 
 ## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
 
-``` bash
+```bash
 # Install dependencies (only the first time)
 npm install
 
@@ -14,3 +14,8 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+
+## Attribution
+
+- Model: [Carla Rigged 001](https://sketchfab.com/3d-models/carla-rigged-001-rigged-3d-business-women-acf520f450d14dd799f98a6fede3edf5) by [Renderpeople](https://renderpeople.com/)
+- Motion: [mixamo.com](https://www.mixamo.com/)
