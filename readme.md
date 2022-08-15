@@ -17,5 +17,5 @@ npm run build
 
 ## Attribution
 
-- Model: [Carla Rigged 001](https://sketchfab.com/3d-models/carla-rigged-001-rigged-3d-business-women-acf520f450d14dd799f98a6fede3edf5) by [Renderpeople](https://renderpeople.com/)
+- Model: [Carla Rigged 001](https://sketchfab.com/3d-models/carla-rigged-001-rigged-3d-business-women-acf520f450d14dd799f98a6fede3edf5) by [Renderpeople](https://renderpeople.com/), [CC Attribution](https://creativecommons.org/licenses/by/4.0/)
 - Motion: [mixamo.com](https://www.mixamo.com/)
